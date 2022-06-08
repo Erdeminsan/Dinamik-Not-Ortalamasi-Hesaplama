@@ -1,0 +1,2 @@
+# Dinamik-Not-Ortalamasi-Hesaplama
+ 
